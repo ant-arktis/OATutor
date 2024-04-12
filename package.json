@@ -66,5 +66,10 @@
     "react-app-rewire-alias": "~1.1.7",
     "react-app-rewired": "~2.2.1"
   },
-  "homepage": "place-holder"
+  "homepage": "place-holder",
+  "overrides": {
+    "css-select": "4.3.0",
+    "nth-check": "2.1.1",
+    "postcss": "^8.4.33"
+  }
 }
